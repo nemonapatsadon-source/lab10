@@ -26,9 +26,6 @@ int main()
 
         string textline;
 
-        float Avg ;
-
-        float SD ;
 
         ifstream source("score.txt");
 
